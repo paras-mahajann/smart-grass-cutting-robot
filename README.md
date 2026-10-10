@@ -2,7 +2,7 @@
 
 An autonomous grass-cutting robot built as a final-year Computer Engineering project at R. C. Patel Institute of Technology, Shirpur. It supports manual control over Bluetooth and a reactive autonomous mode with ultrasonic obstacle avoidance that covers the field in a spiral/serpentine pattern.
 
-> Project Guide: Dr. S. R. Sonawane
+> Project Guide: Dr. V. D. Punjabi
 > Intended client: Ahilya Lawns
 > Academic year: 2026-27
 

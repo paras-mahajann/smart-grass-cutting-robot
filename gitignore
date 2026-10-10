@@ -1,0 +1,35 @@
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.lst
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Secrets and private data
+.env
+*.pem
+*.key
+secrets/
+
+# Python (if used for image processing scripts)
+__pycache__/
+*.pyc
+.venv/
